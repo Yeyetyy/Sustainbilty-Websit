@@ -5,7 +5,7 @@ st.title("Famous Environmentalist ")
 
 url_image = "https://upload.wikimedia.org/wikipedia/commons/6/6f/Greta_Thunberg_02_cropped.jpg"
 
-col2.image(image_url, use_column_width=True)
+image(image_url, use_column_width=True)
 
 
 #text about the person
