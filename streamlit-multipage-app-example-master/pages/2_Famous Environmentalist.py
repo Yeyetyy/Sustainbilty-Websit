@@ -1,26 +1,13 @@
+
 import streamlit as st
 
 
 st.title("Famous Environmentalist ")
 
-st.session_state['answer'] = ''
 
-st.write(st.session_state)
 
-realans = ['', 'abc', 'edf']
-
-if  st.session_state['answer'] in realans:
-    answerStat = "correct"
-elif st.session_state['answer'] not in realans:
-    answerStat = "incorrect"
-
-st.write(st.session_state)
-st.write(answerStat)
-
-url_image = "https://upload.wikimedia.org/wikipedia/commons/6/6f/Greta_Thunberg_02_cropped.jpg"
-
-image(image_url, use_column_width=True)
-
+#the image that pops up onto the screen
+st.image('streamlit-multipage-app-example-master/Greta_Thunberg_02_cropped.jpg', caption= "Greta Thunberg")
 
 #text about the person
 Click = st.button("Reveal Info About Greta Thunberg")
