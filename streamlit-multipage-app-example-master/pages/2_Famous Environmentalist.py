@@ -22,9 +22,6 @@ if Click is True:
     st.write("Awards List [link](https://en.wikipedia.org/wiki/Greta_Thunberg#Honours_and_awards:~:text=COVID%2D19%20pandemic.-,Honours%20and%20awards,doctorate%20was%20scheduled%20to%20be%20granted%20in%20June%202023.%5B301%5D,-Species%20named%20in)")
     st.sidebar.success("Choose a page.")
 
-    else 
-    st.write("click the button")
-
 
 # Set page title and favicon
 st.set_page_config(
