@@ -35,7 +35,7 @@ state = get_state()
 st.title("Famous Environmentalist ")
 
 # The image that pops up onto the screen
-st.image('Greta_Thunberg_02_cropped.jpg', caption="Greta Thunberg")
+st.image('streamlit-multipage-app-example-master/Greta_Thunberg_02_cropped.jpg', caption="Greta Thunberg")
 
 # Text about the person
 click_button = st.button("Reveal Info About Greta Thunberg")
