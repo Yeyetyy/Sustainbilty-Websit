@@ -5,8 +5,6 @@ st.title("Famous Environmentalist ")
 
 
 
-#the image that pops up onto the screen
-st.image('/Users/yatharthmahajan/PycharmProjects/Website/streamlit-multipage-app-example-master/Greta_Thunberg_02_cropped.jpg', caption= "Greta Thunberg")
 
 #text about the person
 Click = st.button("Reveal Info About Greta Thunberg")
