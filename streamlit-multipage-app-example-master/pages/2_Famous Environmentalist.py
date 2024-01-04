@@ -3,7 +3,7 @@ import streamlit as st
 
 st.title("Famous Environmentalist ")
 
-st.session_state['answer'] = ''!
+st.session_state['answer'] = ''
 
 st.write(st.session_state)
 
