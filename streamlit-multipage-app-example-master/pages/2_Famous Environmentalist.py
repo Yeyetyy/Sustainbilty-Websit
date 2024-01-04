@@ -24,3 +24,18 @@ if Click is True:
 
     else 
     st.write("click the button")
+
+
+# Set page title and favicon
+st.set_page_config(
+    page_title="Button Example",
+    layout="centered",
+)
+
+# Button to toggle text visibility
+if st.button("Toggle Text Visibility"):
+    # Display text when the button is clicked
+    st.write("Text is visible now!")
+
+# You can add additional content outside the button, and it will always be visible
+st.write("This text is always visible.")
