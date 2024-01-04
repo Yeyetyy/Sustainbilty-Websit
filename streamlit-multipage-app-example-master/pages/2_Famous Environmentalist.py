@@ -12,7 +12,7 @@ st.image('streamlit-multipage-app-example-master/Greta_Thunberg_02_cropped.jpg',
 #text about the person
 Click = st.button("Reveal Info About Greta Thunberg")
 
-if Click is True:
+if Click:
 
     st.title("About")
     st.text("Born: January 3, 2003 (age 20 years), Stockholm, Sweden")
@@ -23,16 +23,3 @@ if Click is True:
     st.sidebar.success("Choose a page.")
 
 
-# Set page title and favicon
-st.set_page_config(
-    page_title="Button Example",
-    layout="centered",
-)
-
-# Button to toggle text visibility
-if st.button("Toggle Text Visibility"):
-    # Display text when the button is clicked
-    st.write("Text is visible now!")
-
-# You can add additional content outside the button, and it will always be visible
-st.write("This text is always visible.")
