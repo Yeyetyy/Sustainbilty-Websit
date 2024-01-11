@@ -24,7 +24,7 @@ st.sidebar.success("Choose a page.")
 
 
 with st.container():
-    url_image = ("/Users/yatharthmahajan/PycharmProjects/Website/streamlit-multipage-app-example-master/Greta_Thunberg_02_cropped.jpg")
+    url_image = ("streamlit-multipage-app-example-master/Greta_Thunberg_02_cropped.jpg")
     #the image that pops up onto the screen
     col1.image(url_image, use_column_width=True)
 
@@ -47,7 +47,7 @@ col1, col2 = st.columns(2)
 col2.title("Environmental Activist")
 
 with st.container():
-    url_image2 = "/Users/yatharthmahajan/PycharmProjects/Website/streamlit-multipage-app-example-master/Haven_Coleman_(cropped).jpg"
+    url_image2 = "streamlit-multipage-app-example-master/Haven_Coleman_(cropped).jpg"
     #the image that pops up onto the screen
     col2.image(url_image2, use_column_width=True)
 
