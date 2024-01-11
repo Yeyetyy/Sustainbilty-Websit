@@ -5,6 +5,11 @@ import requests
 
 st.title("Biggest Youth Climate Activist")
 
+st.set_page_config(
+    page_icon="🏞️",
+    layout="centered",
+)
+
 def load_lottieurl(url: str):
     r = requests.get(url)
     if r.status_code != 200:
