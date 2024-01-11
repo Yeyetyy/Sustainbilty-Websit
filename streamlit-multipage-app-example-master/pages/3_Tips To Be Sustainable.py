@@ -25,47 +25,47 @@ new_gif_url9 = "https://lottie.host/543d1da7-d053-4b94-8e44-d4a0722911b1/PexoWuB
 tips = [
     {
         "title": "Reduce, Reuse, Recycle!",
-        "text": "One of the most effective ways to minimize your environmental impact is to follow the mantra: reduce, reuse, and recycle. Be mindful of your consumption, find creative ways to reuse items, and recycle materials whenever possible.",
+        "text": "One of the most effective ways to minimize your environmental impact is to follow the mantra: reduce, reuse, and recycle. Be mindful of your consumption, find creative ways to reuse items, and recycle materials whenever possible.(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url1,
     },
     {
         "title": "Think Twice Before Shopping",
-        "text": "Before making a purchase, consider whether you really need the item. Avoid impulse buying and choose products with minimal packaging to reduce waste.",
+        "text": "Before making a purchase, consider whether you really need the item. Avoid impulse buying and choose products with minimal packaging to reduce waste.(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url2,
     },
     {
         "title": "Conserve Water",
-        "text": "Water is a precious resource, and conserving it is essential. Fix leaks promptly, use water-efficient appliances, and adopt water-saving habits such as turning off the tap while brushing your teeth.",
+        "text": "Water is a precious resource, and conserving it is essential. Fix leaks promptly, use water-efficient appliances, and adopt water-saving habits such as turning off the tap while brushing your teeth.(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url3,
     },
     {
         "title": "Ditch Plastic and Switch to Reuse",
-        "text": "Reduce your reliance on single-use plastics. Opt for reusable alternatives such as water bottles, bags, and containers. Every small change adds up!",
+        "text": "Reduce your reliance on single-use plastics. Opt for reusable alternatives such as water bottles, bags, and containers. Every small change adds up!(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url4,
     },
     {
         "title": "Take Extinction Off Your Plate",
-        "text": "Consider adopting a plant-based diet or reducing your meat consumption. Sustainable food choices can help protect biodiversity and reduce your carbon footprint.",
+        "text": "Consider adopting a plant-based diet or reducing your meat consumption. Sustainable food choices can help protect biodiversity and reduce your carbon footprint.(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url5,
     },
     {
         "title": "Simplify the Holidays",
-        "text": "Celebrate the holidays with a focus on meaningful experiences rather than excessive consumption. Choose sustainable gifts, decorations, and wrapping materials.",
+        "text": "Celebrate the holidays with a focus on meaningful experiences rather than excessive consumption. Choose sustainable gifts, decorations, and wrapping materials.(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url6,
     },
     {
         "title": "Choose Organic",
-        "text": "Support organic agriculture, which avoids synthetic pesticides and fertilizers. Organic farming promotes healthier ecosystems, soil, and water quality.",
+        "text": "Support organic agriculture, which avoids synthetic pesticides and fertilizers. Organic farming promotes healthier ecosystems, soil, and water quality.(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url7,
     },
     {
         "title": "Ditch Fast Fashion and Animal-Based Textiles",
-        "text": "Fast fashion has a significant environmental impact. Choose quality, timeless clothing and explore sustainable, cruelty-free alternatives to animal-based textiles, (foxes are the most used animal for clothing).",
+        "text": "Fast fashion has a significant environmental impact. Choose quality, timeless clothing and explore sustainable, cruelty-free alternatives to animal-based textiles, (foxes are the most used animal for clothing).(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url8,
     },
     {
         "title": "Drive Less, Drive Green",
-        "text": "Reduce your carbon footprint by using public transportation, carpooling, biking, or walking. Consider eco-friendly vehicles if possible.",
+        "text": "Reduce your carbon footprint by using public transportation, carpooling, biking, or walking. Consider eco-friendly vehicles if possible.(“12 Ways to Live More Sustainably”)",
         "gif_url": new_gif_url9,
     },
     # Add more tips as needed
