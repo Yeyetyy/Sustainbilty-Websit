@@ -1,2 +1,0 @@
-﻿Steamlit==1.29.0
-Requests==2.31.0
