@@ -94,7 +94,7 @@ for i, tip in enumerate(tips):
 
 # Add more content or tips as needed
 
-video_file = open('/Users/yatharthmahajan/PycharmProjects/Website/streamlit-multipage-app-example-master/Sustainability in everyday life _ Sustainability.mp4', 'rb')
+video_file = open('streamlit-multipage-app-example-master/Sustainability in everyday life _ Sustainability.mp4', 'rb')
 st.video(video_file)
 st.subheader('[(ACCIONA)](https://www.youtube.com/watch?v=kZIrIQDf1nQ)')
 
