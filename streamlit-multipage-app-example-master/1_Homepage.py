@@ -3,17 +3,6 @@ from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
 import requests
 
-st.markdown(
-    """
-<style>
-.css-nzvw1x {
-    background-color: #314E92 !important;
-    background-image: none !important;
-    ,
-
-    unsafe_allow_html=True
-)
-
 def load_lottieurl(url: str):
     r = requests.get(url)
     if r.status_code != 200:
