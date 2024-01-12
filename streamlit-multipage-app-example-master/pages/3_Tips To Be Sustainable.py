@@ -1,4 +1,6 @@
 import streamlit as st
+from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
 
 # Set page title and favicon
 st.set_page_config(
@@ -90,7 +92,7 @@ for i, tip in enumerate(tips):
 
     with col[1]:
     # Display Lottie Gif
-        st.lottie(tip["gif_url"], speed=1, width=300, height=200)
+        st_lottie(tip["gif_url"], speed=1, width=300, height=200)
 
 # Add more content or tips as needed
 
